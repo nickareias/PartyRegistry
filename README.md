@@ -1,6 +1,8 @@
 # party-registry
 
-> A Vue.js project
+> A way for people to list what they need for a party, and a way for friends to say what they can help bring
+
+https://partyregistry.co
 
 ## Build Setup
 
